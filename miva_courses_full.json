@@ -4,14 +4,15 @@
     "academicYear": "2024/2025",
     "source": "https://miva.edu.ng",
     "scraper": "MivaFocus Course Scraper",
-    "lastUpdated": "November 30, 2025 03:37:57"
+    "lastUpdated": "December 07, 2025 03:38:27",
+    "content_hash": "2108cb3de52ac51de46a2435278a0692478f118f8c8b3edefef213d84e29e70f"
   },
   "faculties": {
     "School of Computing": {
       "departments": {
-        "CSC": {
-          "name": "BSc. Computer Science",
-          "url": "https://miva.edu.ng/bsc-in-computer-science/",
+        "SEN": {
+          "name": "BSc. Software Engineering",
+          "url": "https://miva.edu.ng/bsc-software-engineering/",
           "courses": {
             "100_Level": {
               "first_semester": [
@@ -54,7 +55,7 @@
               ],
               "second_semester": [
                 {
-                  "title": "Problem Solving",
+                  "title": "Introduction to Problem Solving",
                   "creditUnits": 3
                 },
                 {
@@ -110,6 +111,10 @@
                   "creditUnits": 2
                 },
                 {
+                  "title": "Software Requirements Engineering",
+                  "creditUnits": 3
+                },
+                {
                   "title": "SIWES I",
                   "creditUnits": 3
                 }
@@ -120,7 +125,7 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Elementary Differential Equations",
+                  "title": "Mathematical Methods II",
                   "creditUnits": 2
                 },
                 {
@@ -132,16 +137,16 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Statistical Computing Inference and Modelling",
+                  "title": "Systems Analysis and Design",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Linear Algebra II",
-                  "creditUnits": 2
+                  "title": "Sustainable Computing (Elective)",
+                  "creditUnits": 3
                 },
                 {
-                  "title": "Introduction to Electric Circuits and Electronics",
-                  "creditUnits": 2
+                  "title": "Software Engineering Process (Elective)",
+                  "creditUnits": 3
                 }
               ]
             },
@@ -152,20 +157,20 @@
                   "creditUnits": 3
                 },
                 {
-                  "title": "Artificial Intelligence",
+                  "title": "Object-Oriented Analysis and Design",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Introduction to Cyber Security and Strategy",
+                  "title": "Web Application Development",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Data Communication System & Network",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Software Defined Networking",
                   "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Data Management",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Data Communication System and Network",
-                  "creditUnits": 3
                 },
                 {
                   "title": "SIWES II",
@@ -186,24 +191,24 @@
                   "creditUnits": 3
                 },
                 {
-                  "title": "Computer Science Innovation and New Technologies",
+                  "title": "Software Construction",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Software Engineering Innovation and New Technologies",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Software Testing and Quality Assurance",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Mobile Application Development",
                   "creditUnits": 2
                 },
                 {
                   "title": "Data Management I",
                   "creditUnits": 3
-                },
-                {
-                  "title": "Web Application Development",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Cloud Computing (Elective)",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Big Data Technology (Elective)",
-                  "creditUnits": 2
                 }
               ]
             },
@@ -222,26 +227,30 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Distributed Computing",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Organization of Programming Languages",
-                  "creditUnits": 3
-                },
-                {
                   "title": "Final Year Project I",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Software Configuration Management and Maintenance",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Software Reverse Engineering and Malware Analysis",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Artificial Intelligence",
                   "creditUnits": 3
                 }
               ],
               "second_semester": [
                 {
-                  "title": "Ethical and Legal Issues in Computer Science",
-                  "creditUnits": 2
+                  "title": "Ethics and Legal Issues in Software Engineering",
+                  "creditUnits": 3
                 },
                 {
-                  "title": "Machine Learning",
-                  "creditUnits": 3
+                  "title": "Software Architecture and Design",
+                  "creditUnits": 2
                 },
                 {
                   "title": "Human Computer Interaction",
@@ -253,6 +262,10 @@
                 },
                 {
                   "title": "Compiler Construction",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Machine Learning",
                   "creditUnits": 3
                 },
                 {
@@ -513,9 +526,9 @@
             }
           }
         },
-        "DTS": {
-          "name": "BSc. Data Science",
-          "url": "https://miva.edu.ng/bsc-in-data-science/",
+        "CSC": {
+          "name": "BSc. Computer Science",
+          "url": "https://miva.edu.ng/bsc-in-computer-science/",
           "courses": {
             "100_Level": {
               "first_semester": [
@@ -606,19 +619,11 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Introduction to Data Science",
+                  "title": "Digital Logic Design",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Introduction to R Programming",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Set, Logic, and Algebra",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Numerical Analysis",
+                  "title": "Introduction to Software Engineering",
                   "creditUnits": 2
                 },
                 {
@@ -629,6 +634,10 @@
               "second_semester": [
                 {
                   "title": "Philosophy, Logic and Human Existence",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Elementary Differential Equations",
                   "creditUnits": 2
                 },
                 {
@@ -644,12 +653,12 @@
                   "creditUnits": 3
                 },
                 {
-                  "title": "Linear Algebra for Data Science",
+                  "title": "Linear Algebra II",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Data Engineering",
-                  "creditUnits": 3
+                  "title": "Introduction to Electric Circuits and Electronics",
+                  "creditUnits": 2
                 }
               ]
             },
@@ -660,19 +669,19 @@
                   "creditUnits": 3
                 },
                 {
-                  "title": "Introduction to Cybersecurity and Strategy",
+                  "title": "Artificial Intelligence",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Data Quality and Data Wrangling",
+                  "title": "Introduction to Cyber Security and Strategy",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Data Management",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Introduction to Data Protection and IT Security",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Internet of Things",
+                  "title": "Data Communication System and Network",
                   "creditUnits": 3
                 },
                 {
@@ -690,28 +699,28 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Big Data Computing",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Data Science Innovation and Entrepreneurship",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Ethics and Legal Issues in Data Science",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Machine Learning",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Probability for Data Science",
+                  "title": "Operating Systems",
                   "creditUnits": 3
+                },
+                {
+                  "title": "Computer Science Innovation and New Technologies",
+                  "creditUnits": 2
                 },
                 {
                   "title": "Data Management I",
                   "creditUnits": 3
+                },
+                {
+                  "title": "Web Application Development",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Cloud Computing (Elective)",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Big Data Technology (Elective)",
+                  "creditUnits": 2
                 }
               ]
             },
@@ -730,29 +739,29 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Final Year Project I",
+                  "title": "Distributed Computing",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Data Visualisation for Data-driven Decision Making",
-                  "creditUnits": 2
+                  "title": "Organization of Programming Languages",
+                  "creditUnits": 3
                 },
                 {
-                  "title": "Neural Nets and Deep Learning",
+                  "title": "Final Year Project I",
                   "creditUnits": 3
                 }
               ],
               "second_semester": [
                 {
-                  "title": "Cloud Computing",
+                  "title": "Ethical and Legal Issues in Computer Science",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Business Intelligence",
+                  "title": "Machine Learning",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Model Engineering",
+                  "title": "Human Computer Interaction",
                   "creditUnits": 2
                 },
                 {
@@ -760,11 +769,11 @@
                   "creditUnits": 3
                 },
                 {
-                  "title": "Operating Systems",
+                  "title": "Compiler Construction",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Time Series Analysis",
+                  "title": "Cloud Computing Security",
                   "creditUnits": 2
                 }
               ]
@@ -1041,9 +1050,9 @@
             }
           }
         },
-        "SEN": {
-          "name": "BSc. Software Engineering",
-          "url": "https://miva.edu.ng/bsc-software-engineering/",
+        "DTS": {
+          "name": "BSc. Data Science",
+          "url": "https://miva.edu.ng/bsc-in-data-science/",
           "courses": {
             "100_Level": {
               "first_semester": [
@@ -1086,7 +1095,7 @@
               ],
               "second_semester": [
                 {
-                  "title": "Introduction to Problem Solving",
+                  "title": "Problem Solving",
                   "creditUnits": 3
                 },
                 {
@@ -1134,16 +1143,20 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Digital Logic Design",
+                  "title": "Introduction to Data Science",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Introduction to Software Engineering",
+                  "title": "Introduction to R Programming",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Software Requirements Engineering",
-                  "creditUnits": 3
+                  "title": "Set, Logic, and Algebra",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Numerical Analysis",
+                  "creditUnits": 2
                 },
                 {
                   "title": "SIWES I",
@@ -1156,10 +1169,6 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Mathematical Methods II",
-                  "creditUnits": 2
-                },
-                {
                   "title": "Computer Programming II",
                   "creditUnits": 3
                 },
@@ -1168,15 +1177,15 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Systems Analysis and Design",
+                  "title": "Statistical Computing Inference and Modelling",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Sustainable Computing (Elective)",
-                  "creditUnits": 3
+                  "title": "Linear Algebra for Data Science",
+                  "creditUnits": 2
                 },
                 {
-                  "title": "Software Engineering Process (Elective)",
+                  "title": "Data Engineering",
                   "creditUnits": 3
                 }
               ]
@@ -1188,20 +1197,20 @@
                   "creditUnits": 3
                 },
                 {
-                  "title": "Object-Oriented Analysis and Design",
+                  "title": "Introduction to Cybersecurity and Strategy",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Web Application Development",
+                  "title": "Data Quality and Data Wrangling",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Data Communication System & Network",
+                  "title": "Introduction to Data Protection and IT Security",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Software Defined Networking",
-                  "creditUnits": 2
+                  "title": "Internet of Things",
+                  "creditUnits": 3
                 },
                 {
                   "title": "SIWES II",
@@ -1218,24 +1227,24 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Operating Systems",
+                  "title": "Big Data Computing",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Data Science Innovation and Entrepreneurship",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Ethics and Legal Issues in Data Science",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Machine Learning",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Probability for Data Science",
                   "creditUnits": 3
-                },
-                {
-                  "title": "Software Construction",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Software Engineering Innovation and New Technologies",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Software Testing and Quality Assurance",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Mobile Application Development",
-                  "creditUnits": 2
                 },
                 {
                   "title": "Data Management I",
@@ -1262,29 +1271,25 @@
                   "creditUnits": 3
                 },
                 {
-                  "title": "Software Configuration Management and Maintenance",
+                  "title": "Data Visualisation for Data-driven Decision Making",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Software Reverse Engineering and Malware Analysis",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Artificial Intelligence",
+                  "title": "Neural Nets and Deep Learning",
                   "creditUnits": 3
                 }
               ],
               "second_semester": [
                 {
-                  "title": "Ethics and Legal Issues in Software Engineering",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Software Architecture and Design",
+                  "title": "Cloud Computing",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Human Computer Interaction",
+                  "title": "Business Intelligence",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Model Engineering",
                   "creditUnits": 2
                 },
                 {
@@ -1292,15 +1297,11 @@
                   "creditUnits": 3
                 },
                 {
-                  "title": "Compiler Construction",
+                  "title": "Operating Systems",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Machine Learning",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Cloud Computing Security",
+                  "title": "Time Series Analysis",
                   "creditUnits": 2
                 }
               ]
@@ -1311,494 +1312,6 @@
     },
     "School of Management and Social Sciences": {
       "departments": {
-        "PPA": {
-          "name": "BSc. Public Policy and Administration",
-          "url": "https://miva.edu.ng/bsc-public-policy-and-administration/",
-          "courses": {
-            "100_Level": {
-              "first_semester": [
-                {
-                  "title": "Communication in English I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Elements of Public Administration",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Principles of Economics I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Use of Library, Study skills and ICT",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Political Science I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Computing",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Financial Accounting I",
-                  "creditUnits": 3
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Communication in English II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Nigerian People and Culture",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Project Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Economics II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Basic Mathematics",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Organisation of Government",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Introduction to Financial Accounting II",
-                  "creditUnits": 3
-                }
-              ]
-            },
-            "200_Level": {
-              "first_semester": [
-                {
-                  "title": "Entrepreneurship and Innovation",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Public Administration",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Office Administration",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Nigerian Legal System",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Introduction to Public Policy Analysis and Decision Making",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Foreign Policy Making and Analysis",
-                  "creditUnits": 2
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Philosophy, Logic and Human Existence",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Nigeria Government and Administration",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Rural and Community Development",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Policy Process",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Contemporary Strategic Studies",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Quantitative Methods in Decision Making",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Strategic Leadership",
-                  "creditUnits": 2
-                }
-              ]
-            },
-            "300_Level": {
-              "first_semester": [
-                {
-                  "title": "Administrative Theory",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "International Administration",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Public Personnel Administration",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Research Methods",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Public Finance",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Administrative Law",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Comparative Local Government",
-                  "creditUnits": 2
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Peace and Conflict Resolution",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Venture Creation",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Administrative Behaviour",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Development Administration",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "E-Governance",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Intergovernmental relations",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Traditional Administrative System in Nigeria",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Policy Evaluation",
-                  "creditUnits": 3
-                }
-              ]
-            },
-            "400_Level": {
-              "first_semester": [
-                {
-                  "title": "Theory and Practice of Planning",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Public Policy Analysis",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Workshop in Public Administration",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Public Finance Administration",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Public Service Ethics and Accountability",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Social and Welfare Administration in Nigeria",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Theory and Practice of Industrial Relations",
-                  "creditUnits": 2
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Public Project Analysis and Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Public Enterprises Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Research Project",
-                  "creditUnits": 6
-                },
-                {
-                  "title": "Comparative Public Administration",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Legislative Process",
-                  "creditUnits": 3
-                }
-              ]
-            }
-          }
-        },
-        "BUA": {
-          "name": "BSc. Business Management",
-          "url": "https://miva.edu.ng/bsc-in-business-management/",
-          "courses": {
-            "100_Level": {
-              "first_semester": [
-                {
-                  "title": "Communication in English I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Business I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Economics I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Use of Library, Study skills and ICT",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Financial Accounting",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Introduction to Computing",
-                  "creditUnits": 2
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Communication in English II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Nigerian People and Culture",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Project Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Business II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Economics II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Basic Mathematics",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Management II",
-                  "creditUnits": 3
-                }
-              ]
-            },
-            "200_Level": {
-              "first_semester": [
-                {
-                  "title": "Entrepreneurship and Innovation",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Business Statistics",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Principles of Business Administration I",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Current Issues in Global Business",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Leadership and Governance",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Elements of marketing",
-                  "creditUnits": 2
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Philosophy, Logic and Human Existence",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Business Administration II",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Green Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Financial Management",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Quantitative Analysis in Management",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Business Environment",
-                  "creditUnits": 2
-                }
-              ]
-            },
-            "300_Level": {
-              "first_semester": [
-                {
-                  "title": "Management Theory",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Financial Management",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Innovation Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "E-Commerce",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Business Start-up",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Supply Chain Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Business Law",
-                  "creditUnits": 2
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Peace and Conflict Resolution",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Venture Creation",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Human Behaviour in Organisations",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Human Resources Management",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Production and Operations Management",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Small Business Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Research Methods in Business",
-                  "creditUnits": 2
-                }
-              ]
-            },
-            "400_Level": {
-              "first_semester": [
-                {
-                  "title": "Business Policy and Strategic Management",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Management Information System",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Analysis for Business Decision",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Feasibility Report and Business Plan Analysis",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Case Studies and Contemporary issues in Business",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Business Entrepreneurship",
-                  "creditUnits": 3
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Strategic Thinking and Problem Solving",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Research project in Business Management",
-                  "creditUnits": 6
-                },
-                {
-                  "title": "International Business",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Internship",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "International Management (Elective)",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Current Issues in Digital Economy and Business (Elective)",
-                  "creditUnits": 2
-                }
-              ]
-            }
-          }
-        },
         "ACC": {
           "name": "BSc. Accounting",
           "url": "https://miva.edu.ng/bsc-in-accounting/",
@@ -2043,6 +1556,498 @@
                 },
                 {
                   "title": "Advanced Management Accounting II",
+                  "creditUnits": 2
+                }
+              ]
+            }
+          }
+        },
+        "BUA": {
+          "name": "BSc. Business Management",
+          "url": "https://miva.edu.ng/bsc-in-business-management/",
+          "courses": {
+            "100_Level": {
+              "first_semester": [
+                {
+                  "title": "Communication in English I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Principles of Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Business I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Principles of Economics I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Use of Library, Study skills and ICT",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Financial Accounting",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Introduction to Computing",
+                  "creditUnits": 2
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Communication in English II",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Nigerian People and Culture",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Principles of Project Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Business II",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Principles of Economics II",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Basic Mathematics",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Principles of Management II",
+                  "creditUnits": 3
+                }
+              ]
+            },
+            "200_Level": {
+              "first_semester": [
+                {
+                  "title": "Entrepreneurship and Innovation",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Business Statistics",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Principles of Business Administration I",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Current Issues in Global Business",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Leadership and Governance",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Elements of marketing",
+                  "creditUnits": 2
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Philosophy, Logic and Human Existence",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Principles of Business Administration II",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Green Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Financial Management",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Quantitative Analysis in Management",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Business Environment",
+                  "creditUnits": 2
+                }
+              ]
+            },
+            "300_Level": {
+              "first_semester": [
+                {
+                  "title": "Management Theory",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Financial Management",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Innovation Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "E-Commerce",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Business Start-up",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Supply Chain Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Business Law",
+                  "creditUnits": 2
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Peace and Conflict Resolution",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Venture Creation",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Human Behaviour in Organisations",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Human Resources Management",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Production and Operations Management",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Small Business Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Research Methods in Business",
+                  "creditUnits": 2
+                }
+              ]
+            },
+            "400_Level": {
+              "first_semester": [
+                {
+                  "title": "Business Policy and Strategic Management",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Management Information System",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Analysis for Business Decision",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Feasibility Report and Business Plan Analysis",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Case Studies and Contemporary issues in Business",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Business Entrepreneurship",
+                  "creditUnits": 3
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Strategic Thinking and Problem Solving",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Research project in Business Management",
+                  "creditUnits": 6
+                },
+                {
+                  "title": "International Business",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Internship",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "International Management (Elective)",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Current Issues in Digital Economy and Business (Elective)",
+                  "creditUnits": 2
+                }
+              ]
+            }
+          }
+        },
+        "ENT": {
+          "name": "BSc. Entrepreneurship",
+          "url": "https://miva.edu.ng/bsc-entrepreneurship/",
+          "courses": {
+            "100_Level": {
+              "first_semester": [
+                {
+                  "title": "Communication Skills in English I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Principles of Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Entrepreneurship & Venture Creation",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Principles of Economics",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Use of Library, Study skills and ICT",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Business Statistics",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Computing",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Business Pitching",
+                  "creditUnits": 2
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Communication Skills in English II",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Nigerian People and Culture",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Principles of Project Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Elements of Bookkeeping",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "The Nigerian Entrepreneurial Environment",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Basic Mathematics",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Basic Financial Literacy",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Technology Entrepreneurship",
+                  "creditUnits": 2
+                }
+              ]
+            },
+            "200_Level": {
+              "first_semester": [
+                {
+                  "title": "Entrepreneurship and Innovation",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Entrepreneurial Financing",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Entrepreneurial Marketing",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Theories of Entrepreneurship",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "New Media Studies for Entrepreneurs",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Principles of Sustainable Development",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Business Communication Skills for Entrepreneurs",
+                  "creditUnits": 2
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Philosophy, Logic and Human Existence",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Entrepreneurship and Change Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Industrial Learning and Tours 1",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Biographical Studies of Entrepreneurial Thinkers and Giants",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Digital Economy",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Digital Entrepreneurship",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Innovation Science",
+                  "creditUnits": 2
+                }
+              ]
+            },
+            "300_Level": {
+              "first_semester": [
+                {
+                  "title": "Business Opportunity Scouting and Evaluation",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Sociology of Entrepreneurship",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Small Scale Business Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Green and Sustainable Entrepreneurship",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Digital Marketing for Entrepreneurs",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Financial Technology Studies",
+                  "creditUnits": 3
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Peace and Conflict Resolution",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Venture Creation",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Family Business and Succession Plan",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Feasibilities and Business Planning",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Research Methods",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Industrial Learning and Tours II",
+                  "creditUnits": 3
+                }
+              ]
+            },
+            "400_Level": {
+              "first_semester": [
+                {
+                  "title": "Technology, Entrepreneurship and Intellectual Property Rights",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "E-Business",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Strategic Thinking, Problem Solving and Negotiation Skills",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Disruptive and Emerging Technologies",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Leadership and Organizational Management",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Technology Hubs and Business Incubation",
+                  "creditUnits": 3
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Social Entrepreneurship and Community Development",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Management of Creativity and Innovation",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Entrepreneurship and Gender Issues",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Risk Management and Insurance",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Research for Enterprise",
+                  "creditUnits": 4
+                },
+                {
+                  "title": "Youth Entrepreneurship",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Current Issues in Digital Economy and Business (Elective)",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "International Management (Elective)",
                   "creditUnits": 2
                 }
               ]
@@ -2315,14 +2320,14 @@
             }
           }
         },
-        "ENT": {
-          "name": "BSc. Entrepreneurship",
-          "url": "https://miva.edu.ng/bsc-entrepreneurship/",
+        "PPA": {
+          "name": "BSc. Public Policy and Administration",
+          "url": "https://miva.edu.ng/bsc-public-policy-and-administration/",
           "courses": {
             "100_Level": {
               "first_semester": [
                 {
-                  "title": "Communication Skills in English I",
+                  "title": "Communication in English I",
                   "creditUnits": 2
                 },
                 {
@@ -2330,11 +2335,11 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Introduction to Entrepreneurship & Venture Creation",
+                  "title": "Elements of Public Administration",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Principles of Economics",
+                  "title": "Principles of Economics I",
                   "creditUnits": 2
                 },
                 {
@@ -2342,21 +2347,21 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Business Statistics",
+                  "title": "Introduction to Political Science I",
                   "creditUnits": 2
                 },
                 {
                   "title": "Introduction to Computing",
-                  "creditUnits": 3
+                  "creditUnits": 2
                 },
                 {
-                  "title": "Business Pitching",
-                  "creditUnits": 2
+                  "title": "Introduction to Financial Accounting I",
+                  "creditUnits": 3
                 }
               ],
               "second_semester": [
                 {
-                  "title": "Communication Skills in English II",
+                  "title": "Communication in English II",
                   "creditUnits": 2
                 },
                 {
@@ -2368,11 +2373,7 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Elements of Bookkeeping",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "The Nigerian Entrepreneurial Environment",
+                  "title": "Principles of Economics II",
                   "creditUnits": 2
                 },
                 {
@@ -2380,12 +2381,12 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Basic Financial Literacy",
+                  "title": "Organisation of Government",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Technology Entrepreneurship",
-                  "creditUnits": 2
+                  "title": "Introduction to Financial Accounting II",
+                  "creditUnits": 3
                 }
               ]
             },
@@ -2396,27 +2397,23 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Introduction to Entrepreneurial Financing",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Entrepreneurial Marketing",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Theories of Entrepreneurship",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "New Media Studies for Entrepreneurs",
+                  "title": "Introduction to Public Administration",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Principles of Sustainable Development",
+                  "title": "Office Administration",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Nigerian Legal System",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Business Communication Skills for Entrepreneurs",
+                  "title": "Introduction to Public Policy Analysis and Decision Making",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Foreign Policy Making and Analysis",
                   "creditUnits": 2
                 }
               ],
@@ -2426,27 +2423,27 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Entrepreneurship and Change Management",
+                  "title": "Nigeria Government and Administration",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Industrial Learning and Tours 1",
+                  "title": "Rural and Community Development",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Policy Process",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Biographical Studies of Entrepreneurial Thinkers and Giants",
+                  "title": "Contemporary Strategic Studies",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Quantitative Methods in Decision Making",
                   "creditUnits": 3
                 },
                 {
-                  "title": "Digital Economy",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Digital Entrepreneurship",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Innovation Science",
+                  "title": "Strategic Leadership",
                   "creditUnits": 2
                 }
               ]
@@ -2454,28 +2451,32 @@
             "300_Level": {
               "first_semester": [
                 {
-                  "title": "Business Opportunity Scouting and Evaluation",
+                  "title": "Administrative Theory",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Sociology of Entrepreneurship",
+                  "title": "International Administration",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Small Scale Business Management",
+                  "title": "Public Personnel Administration",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Research Methods",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Public Finance",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Green and Sustainable Entrepreneurship",
-                  "creditUnits": 3
+                  "title": "Administrative Law",
+                  "creditUnits": 2
                 },
                 {
-                  "title": "Digital Marketing for Entrepreneurs",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Financial Technology Studies",
-                  "creditUnits": 3
+                  "title": "Comparative Local Government",
+                  "creditUnits": 2
                 }
               ],
               "second_semester": [
@@ -2488,19 +2489,27 @@
                   "creditUnits": 2
                 },
                 {
-                  "title": "Family Business and Succession Plan",
+                  "title": "Administrative Behaviour",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Feasibilities and Business Planning",
-                  "creditUnits": 3
+                  "title": "Development Administration",
+                  "creditUnits": 2
                 },
                 {
-                  "title": "Research Methods",
-                  "creditUnits": 3
+                  "title": "E-Governance",
+                  "creditUnits": 2
                 },
                 {
-                  "title": "Industrial Learning and Tours II",
+                  "title": "Intergovernmental relations",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Traditional Administrative System in Nigeria",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Policy Evaluation",
                   "creditUnits": 3
                 }
               ]
@@ -2508,62 +2517,54 @@
             "400_Level": {
               "first_semester": [
                 {
-                  "title": "Technology, Entrepreneurship and Intellectual Property Rights",
+                  "title": "Theory and Practice of Planning",
                   "creditUnits": 2
                 },
                 {
-                  "title": "E-Business",
+                  "title": "Public Policy Analysis",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Workshop in Public Administration",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Strategic Thinking, Problem Solving and Negotiation Skills",
+                  "title": "Public Finance Administration",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Public Service Ethics and Accountability",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Disruptive and Emerging Technologies",
-                  "creditUnits": 3
+                  "title": "Social and Welfare Administration in Nigeria",
+                  "creditUnits": 2
                 },
                 {
-                  "title": "Leadership and Organizational Management",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Technology Hubs and Business Incubation",
-                  "creditUnits": 3
+                  "title": "Theory and Practice of Industrial Relations",
+                  "creditUnits": 2
                 }
               ],
               "second_semester": [
                 {
-                  "title": "Social Entrepreneurship and Community Development",
+                  "title": "Public Project Analysis and Management",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Management of Creativity and Innovation",
+                  "title": "Public Enterprises Management",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Entrepreneurship and Gender Issues",
+                  "title": "Research Project",
+                  "creditUnits": 6
+                },
+                {
+                  "title": "Comparative Public Administration",
                   "creditUnits": 2
                 },
                 {
-                  "title": "Risk Management and Insurance",
+                  "title": "Legislative Process",
                   "creditUnits": 3
-                },
-                {
-                  "title": "Research for Enterprise",
-                  "creditUnits": 4
-                },
-                {
-                  "title": "Youth Entrepreneurship",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Current Issues in Digital Economy and Business (Elective)",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "International Management (Elective)",
-                  "creditUnits": 2
                 }
               ]
             }
@@ -3157,312 +3158,6 @@
     },
     "School of Allied Health Sciences": {
       "departments": {
-        "PHH": {
-          "name": "BSc. Public Health",
-          "url": "https://miva.edu.ng/bsc-in-public-health/",
-          "courses": {
-            "100_Level": {
-              "first_semester": [
-                {
-                  "title": "Communication in English I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "General Biology I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "General Biology Practical I",
-                  "creditUnits": 1
-                },
-                {
-                  "title": "General Chemistry I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "General Chemistry Practical I",
-                  "creditUnits": 1
-                },
-                {
-                  "title": "Elementary Mathematics (Algebra & Trigonometry)",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Computing",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "General Physics I (Mechanics)",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "General Practical Physics I",
-                  "creditUnits": 1
-                },
-                {
-                  "title": "Use of Library, Study Skills and ICT",
-                  "creditUnits": 2
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Nigerian People and Culture",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "General Biology II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "General Biology Practical II",
-                  "creditUnits": 1
-                },
-                {
-                  "title": "General Chemistry II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "General Chemistry Practical II",
-                  "creditUnits": 1
-                },
-                {
-                  "title": "Fundamentals of Public Health",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Public Health Informatics",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "General Physics II – Electricity & Magnetism",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "General Practical Physics II",
-                  "creditUnits": 1
-                }
-              ]
-            },
-            "200_Level": {
-              "first_semester": [
-                {
-                  "title": "Entrepreneurship and Innovation",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introduction to Public Health",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Epidemiology (Infectious Disease Epidemiology and Immunisation Techniques)",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Anatomy of Upper and Lower Limbs",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Introductory Physiology and Blood",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Biochemistry – General and Medical I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "General Microbiology",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Human Genetics",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Developmental Psychology",
-                  "creditUnits": 1
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Philosophy, Logic and Human Existence",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Biostatistics",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Demography and Social Statistics in Public Health",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Health Anthropology",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Public Health Services",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Public Health Residency",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Biochemistry – General and Medical II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Renal and Body Fluids Physiology",
-                  "creditUnits": 2
-                }
-              ]
-            },
-            "300_Level": {
-              "first_semester": [
-                {
-                  "title": "Public Health Microbiology & Parasitology/Entomology",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Environmental Health and Public Health Laws",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Family and Reproductive Health",
-                  "creditUnits": 1
-                },
-                {
-                  "title": "Introduction to Primary Health Care",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Health Economics I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Public Health Seminars I",
-                  "creditUnits": 1
-                },
-                {
-                  "title": "Epidemiology of Communicable and Non-Communicable Diseases",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Research Methods in Public Health I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Community/Public Health Nursing I",
-                  "creditUnits": 2
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Peace and Conflict Resolution",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Venture Creation",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Health Programme Planning and Evaluation",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Occupational Health and Disaster Management",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Community Health Practicum I",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Public Health Nutrition",
-                  "creditUnits": 1
-                },
-                {
-                  "title": "Health Economics II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Public Health Seminars II",
-                  "creditUnits": 1
-                },
-                {
-                  "title": "Community/Public Health Nursing II",
-                  "creditUnits": 2
-                }
-              ]
-            },
-            "400_Level": {
-              "first_semester": [
-                {
-                  "title": "Health Policy and Finance",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Health Sociology",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Community Health Care Practicum II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "International and Global Health",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Principles of Pharmacology, Therapeutics and Substance Abuse",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Internship",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Research Methods in Public Health II",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Epidemiology, Disease Control & Surveillance",
-                  "creditUnits": 2
-                }
-              ],
-              "second_semester": [
-                {
-                  "title": "Research Project",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Health Systems, Planning, Management & Administration",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Contemporary Issues in Public Health",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Bioethics and Health Law",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Health Policy and Health System Research Review",
-                  "creditUnits": 2
-                },
-                {
-                  "title": "Advanced Biostatistics",
-                  "creditUnits": 3
-                },
-                {
-                  "title": "Human Health and Climate change",
-                  "creditUnits": 2
-                }
-              ]
-            }
-          }
-        },
         "NUR": {
           "name": "B.N.Sc. Nursing Science",
           "url": "https://miva.edu.ng/bnsc-in-nursing/",
@@ -3775,6 +3470,312 @@
                 },
                 {
                   "title": "Nursing Education (ELECTIVE)",
+                  "creditUnits": 2
+                }
+              ]
+            }
+          }
+        },
+        "PHH": {
+          "name": "BSc. Public Health",
+          "url": "https://miva.edu.ng/bsc-in-public-health/",
+          "courses": {
+            "100_Level": {
+              "first_semester": [
+                {
+                  "title": "Communication in English I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "General Biology I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "General Biology Practical I",
+                  "creditUnits": 1
+                },
+                {
+                  "title": "General Chemistry I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "General Chemistry Practical I",
+                  "creditUnits": 1
+                },
+                {
+                  "title": "Elementary Mathematics (Algebra & Trigonometry)",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Computing",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "General Physics I (Mechanics)",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "General Practical Physics I",
+                  "creditUnits": 1
+                },
+                {
+                  "title": "Use of Library, Study Skills and ICT",
+                  "creditUnits": 2
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Nigerian People and Culture",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "General Biology II",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "General Biology Practical II",
+                  "creditUnits": 1
+                },
+                {
+                  "title": "General Chemistry II",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "General Chemistry Practical II",
+                  "creditUnits": 1
+                },
+                {
+                  "title": "Fundamentals of Public Health",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Public Health Informatics",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "General Physics II – Electricity & Magnetism",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "General Practical Physics II",
+                  "creditUnits": 1
+                }
+              ]
+            },
+            "200_Level": {
+              "first_semester": [
+                {
+                  "title": "Entrepreneurship and Innovation",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introduction to Public Health",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Principles of Epidemiology (Infectious Disease Epidemiology and Immunisation Techniques)",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Anatomy of Upper and Lower Limbs",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Introductory Physiology and Blood",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Biochemistry – General and Medical I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "General Microbiology",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Human Genetics",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Developmental Psychology",
+                  "creditUnits": 1
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Philosophy, Logic and Human Existence",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Biostatistics",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Demography and Social Statistics in Public Health",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Health Anthropology",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Public Health Services",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Public Health Residency",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Biochemistry – General and Medical II",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Renal and Body Fluids Physiology",
+                  "creditUnits": 2
+                }
+              ]
+            },
+            "300_Level": {
+              "first_semester": [
+                {
+                  "title": "Public Health Microbiology & Parasitology/Entomology",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Environmental Health and Public Health Laws",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Family and Reproductive Health",
+                  "creditUnits": 1
+                },
+                {
+                  "title": "Introduction to Primary Health Care",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Health Economics I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Public Health Seminars I",
+                  "creditUnits": 1
+                },
+                {
+                  "title": "Epidemiology of Communicable and Non-Communicable Diseases",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Research Methods in Public Health I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Community/Public Health Nursing I",
+                  "creditUnits": 2
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Peace and Conflict Resolution",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Venture Creation",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Health Programme Planning and Evaluation",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Occupational Health and Disaster Management",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Community Health Practicum I",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Public Health Nutrition",
+                  "creditUnits": 1
+                },
+                {
+                  "title": "Health Economics II",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Public Health Seminars II",
+                  "creditUnits": 1
+                },
+                {
+                  "title": "Community/Public Health Nursing II",
+                  "creditUnits": 2
+                }
+              ]
+            },
+            "400_Level": {
+              "first_semester": [
+                {
+                  "title": "Health Policy and Finance",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Health Sociology",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Community Health Care Practicum II",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "International and Global Health",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Principles of Pharmacology, Therapeutics and Substance Abuse",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Internship",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Research Methods in Public Health II",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Epidemiology, Disease Control & Surveillance",
+                  "creditUnits": 2
+                }
+              ],
+              "second_semester": [
+                {
+                  "title": "Research Project",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Health Systems, Planning, Management & Administration",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Contemporary Issues in Public Health",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Bioethics and Health Law",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Health Policy and Health System Research Review",
+                  "creditUnits": 2
+                },
+                {
+                  "title": "Advanced Biostatistics",
+                  "creditUnits": 3
+                },
+                {
+                  "title": "Human Health and Climate change",
                   "creditUnits": 2
                 }
               ]
