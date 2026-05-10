@@ -4,8 +4,8 @@
     "academicYear": "2024/2025",
     "source": "https://miva.edu.ng",
     "scraper": "MivaFocus Course Scraper",
-    "lastUpdated": "May 03, 2026 05:32:40",
-    "content_hash": "454b9c63fce3db92928af32178bf6923abcb4e0843ad89c7a2ef4222dabd2d9b"
+    "lastUpdated": "May 10, 2026 05:39:10",
+    "content_hash": "ba2c33a04fd0793e9c9b34a67081ed48c5a2b92c73b02f048ccd906ee5f2e740"
   },
   "faculties": {
     "School of Computing": {
@@ -18,12 +18,6 @@
       "departments": {}
     },
     "School of Allied Health Sciences": {
-      "departments": {}
-    },
-    "School of Education": {
-      "departments": {}
-    },
-    "School of Postgraduate Studies": {
       "departments": {}
     }
   }
