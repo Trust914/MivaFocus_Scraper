@@ -4,7 +4,8 @@
     "academicYear": "2024/2025",
     "source": "https://miva.edu.ng",
     "scraper": "MivaFocus Course Scraper",
-    "lastUpdated": "August 23, 2026 03:03:53"
+    "lastUpdated": "August 30, 2026 08:00:52",
+    "content_hash": "bda1a93a07fcc8d10887ecde5a7dec0ba31c51740f54a6ab04dc79c0098cc3ff"
   },
   "faculties": {
     "School of Computing": {
@@ -20,9 +21,6 @@
       "departments": {}
     },
     "School of Education": {
-      "departments": {}
-    },
-    "School of Postgraduate Studies": {
       "departments": {}
     }
   }
