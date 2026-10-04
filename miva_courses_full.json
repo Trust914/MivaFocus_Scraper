@@ -4,14 +4,10 @@
     "academicYear": "2024/2025",
     "source": "https://miva.edu.ng",
     "scraper": "MivaFocus Course Scraper",
-    "lastUpdated": "September 27, 2026 07:45:01",
-    "content_hash": "bda1a93a07fcc8d10887ecde5a7dec0ba31c51740f54a6ab04dc79c0098cc3ff"
+    "lastUpdated": "October 04, 2026 07:54:32"
   },
   "faculties": {
     "School of Computing": {
-      "departments": {}
-    },
-    "School of Management and Social Sciences": {
       "departments": {}
     },
     "School of Communication and Media Studies": {
@@ -21,6 +17,9 @@
       "departments": {}
     },
     "School of Education": {
+      "departments": {}
+    },
+    "School of Management and Social Sciences": {
       "departments": {}
     }
   }
